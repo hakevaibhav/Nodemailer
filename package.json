@@ -1,0 +1,18 @@
+{
+  "name": "mail",
+  "version": "1.0.0",
+  "description": "simple mail",
+  "main": "mail.js",
+  "dependencies": {
+    "nodemailer": "2.7.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mail"
+  ],
+  "author": "vaiabhv",
+  "license": "ISC"
+}
